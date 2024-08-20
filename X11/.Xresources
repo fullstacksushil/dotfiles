@@ -1,39 +1,31 @@
-! special
-*.foreground:   #e2ddea
-*.background:   #020204
-*.cursorColor:  #e2ddea
+*.foreground: #C6C6C6
+*.background: #1C1C1C
+*.cursorColor: #444444
 
-! black
-*.color0:       #050308
-*.color8:       #5cc3e4
-
-! red
-*.color1:       #171020
-*.color9:       #bb8960
-
-! green
-*.color2:       #2b2039
-*.color10:      #62b3cf
-
-! yellow
-*.color3:       #47365b
-*.color11:      #f4a558
-
-! blue
-*.color4:       #6a5386
-*.color12:      #48a087
-
-! magenta
-*.color5:       #9079ae
-*.color13:      #d0baef
-
-! cyan
-*.color6:       #b7aacb
-*.color14:      #b89ddc
-
-! white
-*.color7:       #e5e0ec
-*.color15:      #b3ca80
+! black 236 238
+*.color0: #303030
+*.color8: #444444
+! red 167
+*.color1: #d75f5f
+*.color9: #d75f5f
+! green 108
+*.color2: #87AF87
+*.color10: #87AF87
+! yellow 221
+*.color3: #ffd75f
+*.color11: #ffd75f
+! blue 110
+*.color4: #87afd7
+*.color12: #87afd7
+! magenta 146
+*.color5: #afafd7
+*.color13: #afafd7
+! cyan 75
+*.color6: #afd7ff
+*.color14: #afd7ff
+! white 239 15
+*.color7: #e4e4e4
+*.color15: #ffffff
 
 URxvt*font: xft:DejaVuSansMono:size=14:antialias=true
 URxvt*borderLess: false
